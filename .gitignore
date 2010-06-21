@@ -1,0 +1,16 @@
+*.dcu
+__history
+.svn
+*.local
+*.identcache
+*.dof
+*.dsk
+*~
+*.~*
+*.cfg
+*.o
+*.swp
+*.zip
+*.exe
+*.res
+video
